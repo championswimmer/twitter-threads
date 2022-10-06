@@ -2,7 +2,7 @@
 author: "Arnav Gupta 😷 💉🟢 💉🟢"
 handle: "@championswimmer"
 source: "https://twitter.com/championswimmer/status/1428581980325613568"
-
+---
 
 As remote/async/hybrid forms of work seem to have settled in and a full in-office atmosphere seems more like past and little like future - one thing that will hurt many companies is understimating the importance of documentation in org culture. 
 

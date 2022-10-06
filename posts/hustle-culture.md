@@ -2,7 +2,7 @@
 author: "Arnav Gupta 😷 💉🟢 💉🟢"
 handle: "@championswimmer"
 source: "https://twitter.com/championswimmer/status/1418249298731429891"
-
+--- 
 
 The last few years I have been at the intersection of tech, content, hustle culture, startups, creator economy and the move towards more indepent work. 
 

@@ -2,6 +2,7 @@
 author: "Arnav Gupta 😷 💉🟢 💉🟢"
 handle: "@championswimmer"
 source: "https://twitter.com/championswimmer/status/1488128884550041607"
+--- 
 
 There are some regions where Polio disease cases caused by the polio vaccine itself (yes you heard it right), is more than the cases caused by wild Polio virus. 🤯 
 Let's talk about vaccine misinformation, game theory, Nash equilibrium and a lot more. 
